@@ -1,5 +1,8 @@
 h1 {
-    color: red;
-    font-size: 100;
+    color: darkred;
+    font-size: 70px;
     font-weight: 100;
+    text-align: center;
+    font-style:oblique;
+    background-color: black;
 }
